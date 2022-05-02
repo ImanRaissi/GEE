@@ -1,9 +1,9 @@
-# GEE
+## GEE
 Common Codes for Google Earth Engine.
 
 ---
 
-*Google Earth Engine NDWI Maps*
+##### Google Earth Engine NDWI Maps
 
 The Normalized Difference Water Index (NDWI) is used to detect water bodies or changes in water level, and is typically used to detect flooding.
 
