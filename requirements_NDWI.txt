@@ -1,0 +1,4 @@
+geopandas
+earthengine-api
+matplotlib
+folium
